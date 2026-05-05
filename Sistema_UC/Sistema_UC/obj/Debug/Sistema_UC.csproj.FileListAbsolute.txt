@@ -1,0 +1,7 @@
+C:\Users\TODO PODEROSO\source\repos\Sistema_UC\Sistema_UC\bin\Debug\Sistema_UC.exe.config
+C:\Users\TODO PODEROSO\source\repos\Sistema_UC\Sistema_UC\bin\Debug\Sistema_UC.exe
+C:\Users\TODO PODEROSO\source\repos\Sistema_UC\Sistema_UC\bin\Debug\Sistema_UC.pdb
+C:\Users\TODO PODEROSO\source\repos\Sistema_UC\Sistema_UC\obj\Debug\Sistema_UC.csproj.AssemblyReference.cache
+C:\Users\TODO PODEROSO\source\repos\Sistema_UC\Sistema_UC\obj\Debug\Sistema_UC.csproj.CoreCompileInputs.cache
+C:\Users\TODO PODEROSO\source\repos\Sistema_UC\Sistema_UC\obj\Debug\Sistema_UC.exe
+C:\Users\TODO PODEROSO\source\repos\Sistema_UC\Sistema_UC\obj\Debug\Sistema_UC.pdb
